@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! 🚀
 
 This website showcases my technical skills, projects, experience, and
 learning journey as an engineering student interested in software
-development and web technologies
+development and web technologies and latest technologies.
 
 ## ✨ Highlights
 
